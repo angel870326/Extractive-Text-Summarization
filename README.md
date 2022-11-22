@@ -13,8 +13,12 @@ https://www.scrapehero.com/nlp-basics-abstractive-and-extractive-text-summarizat
 
 
 Evaluation
+ROUGE-L
 
-ROUGE is a widely used tool for automatically evaluating the summarization quality by comparing the summarization text with the golden standard benchmark. It is used to evaluate the summarization quality. ROUGE-N is a standard metric for the DUC competition. The basic idea of ROUGE-N is to evaluate the overlapping parts between the generated summary and the standard summary in N-gram unit. ROUGE-N score has been widely used to compare summarization models on the public benchmark data set in which standard summarization are given for evaluating the summary.
 
+Text Summarization in Python:
+https://www.turing.com/kb/5-powerful-text-summarization-techniques-in-python
 
-https://www.sciencedirect.com/topics/computer-science/extractive-summarization
+https://rare-technologies.com/text-summarization-in-python-extractive-vs-abstractive-techniques-revisited/
+
+https://towardsdatascience.com/text-summarization-with-nlp-textrank-vs-seq2seq-vs-bart-474943efeb09
